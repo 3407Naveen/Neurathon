@@ -3,8 +3,8 @@ import { motion } from 'framer-motion';
 
 const ContactSection = () => {
     const students = [
-        { name: "Naveen S ", year: "II - AIDS,PH: 6383785126 " },
-        { name: "Samyuktha P", year: "II - AIDS" }
+        { name: "Naveen S ", year: "II - AIDS, CON: 6383785126 " },
+        { name: "Samyuktha P", year: "II - AIDS, CON:9444396950" }
     ];
 
     return (
